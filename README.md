@@ -1,3 +1,5 @@
+Uma tela onde a pessoa é obrigada a marcar SIM, pois quando passa o mouse por cima do Não ele se teleporta para outro lugar.
+
 # Vite Vue Starter
 
 This is a project template using [Vite](https://vitejs.dev/). It requires [Node.js](https://nodejs.org) version 18+ or 20+.
